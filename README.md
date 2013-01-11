@@ -1,4 +1,4 @@
-bento
-=====
+Legobox
+=======
 
-Compartmentalise your user interface.
+Pluggable console UI toolkit
